@@ -24,8 +24,7 @@ namespace pizza
             pizza5.Print();
 
 
-            //Console.WriteLine("pizza1 Name = {0}, Price = {1} рублей, Sauce = {2}, Diametr = {3} см, DoubleCheese = {4} ",pizza1.Name, pizza1.Price, pizza1.Sauce, pizza1.Diameter, pizza1.DoubleCheese);
-
+            
         }
     }
 }
